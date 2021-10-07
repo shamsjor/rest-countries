@@ -1,19 +1,18 @@
 <template>
-  <HeadApp @passData="passData($event)" />
-  <BodyApp :dark="dark" />
+  <div class="details">
+    <HeadApp @passData="passData($event)" />
+    <detailsApp :dark="dark" />
+  </div>
 </template>
-
 <script>
-// @ is an alias to /src
+import detailsApp from "@/components/details-country.vue";
 import HeadApp from "@/components/head.vue";
-import BodyApp from "@/components/body.vue";
-// import Vue from "vue";
 
 export default {
-  name: "Home",
+  name: "Details",
   components: {
+    detailsApp,
     HeadApp,
-    BodyApp,
   },
   data() {
     return {
