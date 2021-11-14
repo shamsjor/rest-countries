@@ -14,6 +14,11 @@ Users should be able to:
 - Click through to the border countries on the detail page
 - Toggle the color scheme between light and dark mode *(optional)*
 
+### light mode
+![Screenshot 2021-11-14 at 09-18-00 rest-countries](https://user-images.githubusercontent.com/74854926/141671468-c2ee0830-04f4-47ec-8e07-c99d24d29eea.png)
+### dark mode
+![Screenshot 2021-11-14 at 09-16-18 rest-countries](https://user-images.githubusercontent.com/74854926/141671469-95fc328e-c344-4432-a2e3-ff6b16370e15.png)
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -23,7 +28,4 @@ Users should be able to:
 - Mobile-first workflow
 - [vue](https://vuejs.org/) - JS library
 - bootstrap5
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
